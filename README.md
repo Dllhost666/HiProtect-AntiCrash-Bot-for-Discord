@@ -1,1 +1,0 @@
-# HiProtect-AntiCrash-Bot-for-Discord
